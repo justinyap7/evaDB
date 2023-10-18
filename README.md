@@ -1,7 +1,6 @@
-# Story Question and Answering
-This example demonstrates the capability of EvaDB in extracting embedding from texts, building similarity index, searching similar sources, and using **local LLM** to answer question based on that. For this example, we use "War and Peace" story as the source for our demonstration purpose.
+# MP3 Summarization
 
-This app is powered by EvaDB and GPT4All. No OpenAI API Key is necessary.
+This app summarizes MP3 files and is powered by EvaDB and GPT4All. No OpenAI API Key is necessary.
 
 ## Setup
 Ensure that the local Python version is >= 3.8. Install the required libraries:
@@ -12,5 +11,5 @@ pip3 install -r requirements.txt
 
 ### How to Run
 ```bash
-python evadb_qa.py
+python mp3ToSum.py
 ```
