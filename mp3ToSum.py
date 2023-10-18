@@ -19,8 +19,6 @@ DEFAULT_VIDEO_PATH = os.path.join(
 # temporary file paths
 TRANSCRIPT_PATH = os.path.join("evadb_data", "tmp", "transcript.txt")
 
-sys.path.append('')
-
 
 def transcribe_sphinx(audio_path):
     r = sr.Recognizer()
