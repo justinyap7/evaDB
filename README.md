@@ -3,7 +3,7 @@
 
 MP3 Summarizer EvaDB is an innovative application designed to transcribe and summarize audio content from MP3 files. Leveraging the power of SpeechRecognition, pydub, and GPT4All, it transforms spoken words into written summaries, making it easier to digest and understand audio content quickly.
 
-[Project Repository]([https://github.com/justinyap7/evaDB](https://github.com/justinyap7/mp3_summarizer_evaDB))
+[Project Repository](https://github.com/justinyap7/mp3_summarizer_evaDB)
 
 ## Features
 
