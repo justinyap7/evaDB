@@ -35,7 +35,7 @@ pip3 install -r requirements.txt
 
 ### How to Run
 ```bash
-python mp3ToSum.py
+python3 mp3ToSum.py
 ```
 
 ## Usage
